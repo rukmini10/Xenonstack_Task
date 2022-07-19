@@ -24,7 +24,27 @@
 
 ##### Through Nav-Bar can go to certain navigations like products, cart, services, contactus
 
-##### 
+##### Products Page/view 
+##### here we can give the quantity and then you can add to cart , you can also change the quantity in cart also
+
+![image](https://user-images.githubusercontent.com/67414312/179808139-43ff06d6-1881-4fb6-8f25-c195c79da2a4.png)
+
+##### These are the featured products list
+
+![image](https://user-images.githubusercontent.com/67414312/179808226-05ab05d9-c335-4aeb-ad35-cc3e1d3b24bc.png)
+![image](https://user-images.githubusercontent.com/67414312/179808466-708a7da2-ad99-4113-820b-70d24333e403.png)
+
+##### Services
+![image](https://user-images.githubusercontent.com/67414312/179808524-f32cc72e-bb33-4660-af60-09333c3739cb.png)
+
+##### contact us for any information queries and all
+![image](https://user-images.githubusercontent.com/67414312/179808636-3cead4a5-817b-4ae6-a3b1-236956aad287.png)
+
+##### when you click on add to cart on the products it will re-direct to cart page and also you can go through navigation menu
+##### In carts page you can cancel the products, you can again continue shopping and you can also update and delete the cart
+![image](https://user-images.githubusercontent.com/67414312/179808824-6164e07b-2966-4dc7-b35a-a30bbc4bfecd.png)
+
+
 
 
 
