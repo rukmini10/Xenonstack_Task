@@ -44,7 +44,14 @@
 ##### In carts page you can cancel the products, you can again continue shopping and you can also update and delete the cart
 ![image](https://user-images.githubusercontent.com/67414312/179808824-6164e07b-2966-4dc7-b35a-a30bbc4bfecd.png)
 
+##### And finally checkoutpage after adding products to cart
+![image](https://user-images.githubusercontent.com/67414312/179809696-23222d66-3d33-475e-86a6-11639ffacf9e.png)
 
+##### need to fill billing details , you can choose shipping adress will be same as billing address and then submit
+![image](https://user-images.githubusercontent.com/67414312/179809888-b94cfd8d-93d5-422f-bc44-db5381dfebe6.png)
+
+
+Thank You
 
 
 
